@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MedidorWeb", "MedidorWeb\MedidorWeb.vbproj", "{F665B9ED-11C1-42D2-B539-B8DABE217197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidorModel", "MedidorModel\MedidorModel.csproj", "{7A46A81E-D29A-466C-B766-2625D6F78FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F665B9ED-11C1-42D2-B539-B8DABE217197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F665B9ED-11C1-42D2-B539-B8DABE217197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F665B9ED-11C1-42D2-B539-B8DABE217197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F665B9ED-11C1-42D2-B539-B8DABE217197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A46A81E-D29A-466C-B766-2625D6F78FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A46A81E-D29A-466C-B766-2625D6F78FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A46A81E-D29A-466C-B766-2625D6F78FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A46A81E-D29A-466C-B766-2625D6F78FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8A5E19-CE7F-4BF4-8316-650A1C966AB6}
+	EndGlobalSection
+EndGlobal
